@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This repository contains the mini projects completed as part of the **Codec Technology Virtual Internship**. These projects demonstrate practical skills in data preprocessing, exploratory data analysis, machine learning, model evaluation, and dashboard development.
+This repository contains a collection of data analytics and machine learning mini-projects, covering data preprocessing, exploratory data analysis (EDA), predictive modeling, model evaluation, and data visualization. Each project focuses on applying data-driven techniques to solve practical problems and demonstrate analytical and machine learning skills.
 
 ---
 
