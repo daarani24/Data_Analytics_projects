@@ -1,8 +1,9 @@
+fastapi
+uvicorn
+streamlit
 pandas
 numpy
-matplotlib
-seaborn
 scikit-learn
 xgboost
 joblib
-jupyter
+requests
